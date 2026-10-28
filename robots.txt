@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://slimqa-coffee-booster.github.io/sitemap.xml
